@@ -24,9 +24,6 @@ The schematic illustrates the overall interconnection of components within the A
 - **`testbench.v`**  
   A testbench to simulate and verify the functionality of the ALU. It generates clock pulses, sets up inputs, and monitors the outputs.
 
-- **`testbench/`**  
-  Contains the source code for **alutester**, an ncurses-based interactive testing tool for the ALU. This tool allows real-time changes of inputs and opcodes to observe the ALU behavior.
-
 ## Specification
 
 **Inputs:**
